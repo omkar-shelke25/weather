@@ -94,7 +94,7 @@ class HourlyForecast extends StatelessWidget {
               TextButton(
                 child: Text(
                   'See More',
-                  style: TextStyle(color: Colors.blue),
+                  style: TextStyle(color: Colors.deepPurpleAccent),
                 ),
                 onPressed: () {
                   Navigator.of(context).pushNamed(HourlyScreen.routeName);

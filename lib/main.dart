@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
             elevation: 0,
           ),
           scaffoldBackgroundColor: Colors.white,
-          primaryColor: Colors.blue,
+          primaryColor: Colors.deepPurpleAccent,
           accentColor: Colors.white,
           visualDensity: VisualDensity.adaptivePlatformDensity,
         ),

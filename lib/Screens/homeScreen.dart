@@ -93,7 +93,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                         child: RefreshIndicator(
                                           onRefresh: () =>
                                               _refreshData(context),
-                                          backgroundColor: Colors.blue,
+                                          backgroundColor: Colors.deepPurpleAccent,
                                           child: ListView(
                                             children: [
                                               FadeIn(
