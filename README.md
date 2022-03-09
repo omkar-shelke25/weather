@@ -12,8 +12,9 @@
 ## Features
 - Show  automatically user current location.
 - Search any location forecast
-- Show Next 3 Hourly weather information
+- Show Next 24 Hourly weather information
 - show next 7 days weather information 
+- Fast and Flexible UI
 
 ## Preview
 ![Alt Text](https://github.com/omkara18/weather/blob/master/weather_app1.gif)
