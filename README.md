@@ -1,4 +1,4 @@
-# Weatherapp
+# WeatherApp
 ![appicon](https://github.com/omkara18/weather/blob/master/assets/weather.jpg)
 
 
