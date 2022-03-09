@@ -5,9 +5,9 @@
 - IDE: Visual Studio Code
 - OS : Ubuntu
 - Android Version: 11
-- Programming Language : Dart,HTML
+- Programming Language : Dart
 - API :OpenWeatherMap
--
+
 
 ## Features
 - Show  automatically user current location.
