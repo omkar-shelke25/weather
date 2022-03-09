@@ -1,5 +1,5 @@
 # Weatherapp
-![appicon](https://user-images.githubusercontent.com/22769589/68296145-f7305d80-00a4-11ea-9cbe-24b18222bfa9.png)
+![appicon](https://github.com/omkara18/weather/blob/master/assets/weather.jpg)
 
 
 ## Technology And Tools:
